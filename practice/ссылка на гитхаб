@@ -1,0 +1,4 @@
+https://github.com/oleg-agapov/getting-started-with-pyspark-ru
+
+
+docker run -it -p 8888:8888 -p 4040:4040 -v $(pwd):/home/jovyan/work jupyter/pyspark-notebook
